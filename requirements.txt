@@ -1,0 +1,42 @@
+# DevInsure Data Pipeline
+
+## Project Overview
+
+This project implements an ETL (Extract, Transform, Load) pipeline for insurance data using Python and Pandas.
+
+## Features
+
+- JSON-based configuration
+- CSV ingestion
+- Data validation
+- Data preprocessing
+- Parquet conversion
+- Data transformation
+- KPI report generation
+- Audit logging
+- File archiving (Retention)
+
+## Technologies Used
+
+- Python
+- Pandas
+- JSON
+- CSV
+- Parquet
+
+## Folder Structure
+
+config/
+data/
+logs/
+src/
+
+## Execution
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the project:
+
+python src/main.py
